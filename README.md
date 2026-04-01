@@ -8,6 +8,10 @@ IMGLAB custom nodes for ComfyUI.
 
 ![Auto Mask (IMGLAB)](assets/IMGLAB%20Auto%20Mask%20Node.jpg)
 
+## Example
+
+![Example](assets/Example1.jpg)
+
 A ComfyUI custom node that accepts one image and up to 8 mask inputs, compares dimensions, and outputs the first matching mask — with configurable edge-case handling and an optional fallback (else) mask.
 
 ## Installation
