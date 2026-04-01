@@ -1,0 +1,7 @@
+[project]
+name = "IMGLAB_ComfyUI"
+description = "IMGLAB custom nodes for ComfyUI"
+version = "1.0.0"
+
+[project.urls]
+Repository = "https://github.com/IMGLAB-net/IMGLAB_ComfyUI"
